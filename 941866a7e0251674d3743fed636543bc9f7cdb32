@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1969be_640ca243",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1003674
+      },
+      "writtenOn": "2015-02-08T16:36:49Z",
+      "side": 1,
+      "message": "looks good, can be merged",
+      "revId": "941866a7e0251674d3743fed636543bc9f7cdb32",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
